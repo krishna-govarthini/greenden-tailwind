@@ -27,6 +27,6 @@
 
 ## 🔗 Site Link
 
-Visit the website here: [GreenDen]https://krishna-govarthini.github.io/greenden-tailwind/.
+Visit the website here: [GreenDen](https://krishna-govarthini.github.io/greenden-tailwind/).
 
 ✨ Thank you for visiting!
