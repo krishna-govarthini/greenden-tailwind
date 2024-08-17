@@ -1,4 +1,4 @@
-# GreenDen 🌿
+# GreenDen🌿
 
 **GreenDen** is a responsive website project developed using Tailwind CSS as part of my Full Stack Development course. The site is designed to showcase a fictional online store specializing in a variety of plants, both artificial and natural. This project helped me practice and implement Tailwind's utility-first approach to CSS, enabling rapid and responsive design.
 
